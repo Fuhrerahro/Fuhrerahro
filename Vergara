@@ -1,0 +1,51 @@
+<!doctype html>
+<html> 
+ <head> 
+  <title>Ikigai: The Japanese Secret to a Long and Happy Life </title> 
+ </head> 
+ <body> 
+ <img src="webpic.png" width="200" height="140">
+   <font face="opensans" size="3"> <p> <b>IKIGAI: THE JAPANESE SECRET TO A LONG AND HAPPY LIFE</b> </p> </font> 
+  
+  <p> <b>Ikigai is a Japanese concept that roughly translates to "a reason for being" or "a reason wake up in the morning." <br> It encompasses finding joy, purpose and fulfillment in life. The concept suggests that by indentifying and nurturing. <br> the intersection of four elements, individuals can lead a fulfilling and meaningful life. These elements are:</b> </p> 
+ 
+  <ol> 
+   <li>What you love (your passion)</li> 
+   <ul style="list-style-type: disc;">
+     <li>This refer to activities, hobbies, or pursuits that bring you joy and fulfillment</li> 
+     <li>It could be anything from painting to gardening to playing music</li> 
+   </ul> 
+   <br> 
+   <ol></ol> 
+      
+   <li>What you are good at (your vocation)</li>
+    <ul style="list-style-type: disc;">
+     <li>This involves recognizing your strengths, skills and talent</li> 
+     <li>It's about understanding what you excel at and what comes naturally to you</li> 
+   </ul> 
+   <br> 
+   <ol></ol> 
+      
+   <li>What the world needs (your mission)</li> 
+    <ul style="list-style-type: disc;">
+      <li>This aspect emphasizes contributing to the greater good, making a positive impact, or serving others in some capacity.</li> 
+      <li>It involves identifying needs or problems in the world that resonate with you and finding ways to address them.</li> 
+   </ul> 
+   <br> 
+   <ol></ol> 
+      
+   <li>What you can be paid for (your profession)</li> 
+    <ul style="list-style-type: disc;">
+      <li>This relates to finding a career or vocation that allows you to earn a living while also aligning with your passions, <br> strengths and values.</li> 
+   </ul> 
+    
+      <style>
+          p.ex2 {
+              font-size: 30px;
+          }
+      </style>
+     
+      <p class="ex2"><u>The idea behind ikigai is that true fulfillment and happiness <br> come from finding balance and harmony among these four <br> elements. It's about finding a purpose-driven life that <br> intergrates personal fulfillment with societal contribution and <br> financial stability. By living in ailgnment with their ikigai, <br> individuals can exprience a sense of meaning, satisfaction, <br> and longevity.</u></p> 
+  </ol>
+ </body>
+</html>
